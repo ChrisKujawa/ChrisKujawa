@@ -1,9 +1,9 @@
 
 ![Zelldon stats](https://github-readme-stats.vercel.app/api?username=zelldon&count_private=true&show_icons=true)
 
-Hi there :wave:, my name is Christopher Zell I'm a passionated software engineer working in open source since 2016. I'm currently working at the [Zeebe Project](https://github.com/camunda-cloud/zeebe) as Distributed Systems Engineer. I have high interest in distributed systems, chaos engineering and SRE topics. 
+Hi there :wave:, my name is Christopher Zell I'm a passionated software engineer working in open source since 2016. I'm mainly working on the [Zeebe Project](https://github.com/camunda-cloud/zeebe) as Distributed Systems Engineer. I have high interest in distributed systems, chaos engineering and SRE topics. 
 
-I'm the maintainer of:
+As side projects I'm maintaining the following projects:
 
  * [C# Zeebe client](https://github.com/camunda-community-hub/zeebe-client-csharp)
  * [Zeebe Debug and insepection tool](https://github.com/Zelldon/zdb)
