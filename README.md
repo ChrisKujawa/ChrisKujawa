@@ -1,9 +1,7 @@
 
-![Zelldon stats](https://github-readme-stats.vercel.app/api?username=zelldon&count_private=true&show_icons=true)
+My name is Christopher Kujawa (former Zell).
 
-Hi there :wave:,
-
-my name is Christopher Kujawa (former Zell). I'm a passionated software engineer working in open source since almost 10 years. I'm mainly working on the [Zeebe Project](https://github.com/camunda-cloud/zeebe) as Distributed Systems and Chaos Engineer. I have high interest in distributed systems, chaos engineering and SRE topics. 
+I'm a passionated software engineer working in open source since almost 10 years. I'm mainly working on the [Zeebe Project](https://github.com/camunda-cloud/zeebe) as Distributed Systems and Chaos Engineer. I have high interest in distributed systems, chaos engineering and SRE topics. 
 
 During my time [@Camunda](camunda.com) I bootstrapped several projects, most of them I'm still maintaining.
 
