@@ -25,3 +25,8 @@ I have written several blog posts in the past since I like to share my learnings
 ](https://medium.com/@zelldon91/connecting-camunda-platform-8-with-github-workflows-ee1f91488ad3)
  * [Advanced Test Practices For Helm Charts
 ](https://medium.com/@zelldon91/advanced-test-practices-for-helm-charts-587caeeb4cb)
+
+**Camunda Con Talks:**
+* [Camunda Con 2020.2: Chaos Engineering Meets Zeebe](https://page.camunda.com/recording-chaos-engineering-meets-zeebe)
+* [Camunda Con 2024: Drinking our own Champagne: Chaos Experiments with Zeebe against Zeebe](https://vimeo.com/947050323/ce692173b3)
+* [Camunda Con 2025: One exporter to rule them all: Exploring Camunda Exporter](https://www.camundacon.com/event-session/camundacon-amsterdam-2025/one-exporter-to-rule-them-all-exploring-camunda-exporter/?on_demand=true)
