@@ -1,18 +1,26 @@
+# Christopher Kujawa (born as Zell)
 
-My name is Christopher Kujawa (former Zell).
+I'm a passionate software engineer who has been working in open source for more than 10 years now, mainly at [@Camunda](https://github.com/camunda), where I have worked on and bootstrapped several projects. 
+For example, I was a core contributor for many years as a Distributed Systems and Chaos Engineer on the fault-tolerant, high-performing, and scalable processing engine [Zeebe](https://camunda.com/platform/zeebe/).
 
-I'm a passionate software engineer working in open source for almost 10 years. I'm mainly working on the [Zeebe Project](https://github.com/camunda-cloud/zeebe) as a Distributed Systems and Chaos Engineer. I have a high interest in distributed systems, chaos engineering, and SRE topics. 
+I am highly interested in distributed systems, chaos engineering, reliability, quality, and SRE topics.
+Right now, I'm working as a Principal Software Engineer, ensuring the reliability and performance of our platform, so that we can find issues before our users and customers do and confidently ship the product. I always drive to improve our internal processes, especially with respect to IRM. For this, I introduced Gamedays [@Camunda](http://camunda.com) to train ourselves and find sharp edges in our procedures.
 
-During my time [@Camunda](camunda.com) I bootstrapped several projects, most of which I'm still maintaining.
+During my time [@Camunda](http://camunda.com), I bootstrapped several pet/side projects and initiatives, most of which I'm still maintaining.
 
- * [C# Zeebe client](https://github.com/camunda-community-hub/zeebe-client-csharp)
- * [Zeebe Debug and insepection tool (zdb)](https://github.com/Zelldon/zdb)
- * [Camunda Cloud Helm charts](https://github.com/camunda-community-hub/camunda-cloud-helm)
- * [Zeebe Benchmark Helm charts](https://github.com/zeebe-io/benchmark-helm)
- * [Embedded Zeebe Engine (eze)](https://github.com/camunda-community-hub/eze)
  * [Zbchaos - chaos toolkit for Zeebe](https://github.com/zeebe-io/zeebe-chaos)
-
-As I have a high interest in chaos engineering I created an [repository](https://github.com/zeebe-io/zeebe-chaos) which covers a lot of chaos engineering in regards to Zeebe. I publish semi-regular Chaos Day summaries on my [Zeebe Chaos Blog](https://zeebe-io.github.io/zeebe-chaos/). I have introduced Game Days in Camunda to make our systems more reliable and gave a talk about this topic at [Camunda Con 2020.2](https://page.camunda.com/cclive-zell-chaosengineeringmeetszeebe).
+   * Covering a lot of chaos engineering topics regarding Zeebe, for example, a CLI to inject failures and run experiments
+   * Hosting a blog where I publish semi-regular Chaos Day summaries on my [Zeebe Chaos Blog](https://zeebe-io.github.io/zeebe-chaos/)
+ * [Zeebe Benchmark Helm charts](https://github.com/zeebe-io/benchmark-helm)
+   * Containing a Helm Chart based on the Camunda Platform Helm chart and adding load test capabilities for Camunda 8.
+ * [C# Zeebe client](https://github.com/camunda-community-hub/zeebe-client-csharp)
+   * Containing a C#/.NET Client based on the gRPC Camunda protocol.
+ * [Zeebe Debug and inspection tool (zdb)](https://github.com/Zelldon/zdb)
+   * Containing a CLI to inspect the internal state and log of the Zeebe processing engine, frequently used in incidents and support cases. 
+ * [Camunda Cloud Helm charts](https://github.com/camunda-community-hub/camunda-cloud-helm)
+   * I bootstrapped the Camunda Platform Helm chart and handed it to our now Distributions team.
+ * [Embedded Zeebe Engine (eze)](https://github.com/camunda-community-hub/eze)
+   * The embedded Zeebe engine, which can be used for performance or general unit tests, makes process tests much faster.
 
 I have written several blog posts in the past since I like to share my learnings and knowledge:
 
@@ -25,8 +33,9 @@ I have written several blog posts in the past since I like to share my learnings
 ](https://medium.com/@zelldon91/connecting-camunda-platform-8-with-github-workflows-ee1f91488ad3)
  * [Advanced Test Practices For Helm Charts
 ](https://medium.com/@zelldon91/advanced-test-practices-for-helm-charts-587caeeb4cb)
+ * [Getting data out of burning Java containers](https://medium.com/p/6e0c8bb53eec)
 
-**Camunda Con Talks:**
+Additionally, I gave several [Camunda Con](https://www.camundacon.com/) Talks over the years:
 * [Camunda Con 2020.2: Chaos Engineering Meets Zeebe](https://page.camunda.com/recording-chaos-engineering-meets-zeebe)
 * [Camunda Con 2024: Drinking our own Champagne: Chaos Experiments with Zeebe against Zeebe](https://vimeo.com/947050323/ce692173b3)
 * [Camunda Con 2025: One exporter to rule them all: Exploring Camunda Exporter](https://www.camundacon.com/event-session/camundacon-amsterdam-2025/one-exporter-to-rule-them-all-exploring-camunda-exporter/?on_demand=true)
